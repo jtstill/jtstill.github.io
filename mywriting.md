@@ -1,6 +1,6 @@
 ---
 title: "My Writing"
-layout: archive
+layout: categories_article
 author: Jack Still
 author_profile: true
 ---

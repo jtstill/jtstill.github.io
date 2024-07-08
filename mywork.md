@@ -1,6 +1,6 @@
 ---
 title: "My Work"
-layout: archive
+layout: categories_work
 author: Jack Still
 author_profile: true
 ---
