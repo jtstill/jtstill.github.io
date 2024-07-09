@@ -1,11 +1,11 @@
 ---
 layout: posts
-title:  "Demo site on Codespace"
+title:  "--DEMO ARTICLE--"
 tagline: "stuff"
 date:   2023-06-21 19:13:27 -0500
 highlight_home: true
-category: work
-tags: [codespacedemo]
+category: petprojects
+tags: education
 author_profile: true
 author: Jack Still
 header:

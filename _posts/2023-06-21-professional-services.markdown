@@ -1,11 +1,11 @@
 ---
 layout: posts
-title:  "Accelerating your Career"
+title:  "--DEMO-- Accelerating your Career"
 tagline: "Professional Services That Transformed My Professional Viability"
 date:   2023-06-21 19:13:27 -0500
 highlight_home: true
-category: article
-tags: [leadership]
+category: petprojects
+tags: demo
 author_profile: true
 author: Jack Still
 header:

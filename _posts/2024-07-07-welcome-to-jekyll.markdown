@@ -1,10 +1,10 @@
 ---
 layout: posts
-title:  "Welcome to Jekyll!"
+title:  "--DEMO-- Welcome to Jekyll!"
 date:   2024-07-07 23:14:36 +0000
-categories: work
+categories: petprojects
 highlight_home: true
-tags: education
+tags: demo
 description: this is an article about education
 header:
  overlay_image: "assets/images/north_of_sedona.jpg"

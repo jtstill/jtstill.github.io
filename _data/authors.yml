@@ -1,11 +1,11 @@
 Jack Still:
   name        : "Jack Still"
-  bio         : "Just a guy with interests he wants to share!"
+  bio         : "Hoping my interests don't get lost to the void!"
   avatar      : "assets/images/roster22.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:name@email.com"
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://www.mywebsite.com"
+      url: "https://www.linkedin.com/in/jack-still/"
