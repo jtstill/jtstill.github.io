@@ -1,11 +1,11 @@
 ---
 layout: posts
-title:  "--DEMO ARTICLE--"
-tagline: "stuff"
+title:  "County Completion"
+#tagline: "stuff"
 date:   2023-06-21 19:13:27 -0500
 # highlight_home: true
-# category: petprojects
-# tags: highways
+#category: petprojects
+#tags: highways
 author_profile: true
 author: Jack Still
 header:
@@ -15,7 +15,7 @@ header:
  description: A picture I took north of Sedona, AZ in August 2022
 ---
 
---WOULD LOVE TO MAKE THE CONTENT OF THE EMBEDDED IMAGE ITSELF SMALLER!!--
+--to do: figure out way to import table stats and construct--
 
 Current Progress in the USA
 <img src="https://mob-rule.com/user-gifs/USA/jtstill.gif">
