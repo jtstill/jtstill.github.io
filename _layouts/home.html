@@ -4,7 +4,7 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Projects" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Projects" }}</h3>
 
 {% if paginator %}
 {% assign posts = paginator.posts %}
@@ -21,7 +21,7 @@ layout: archive
     {% endfor %}
 </div>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Articles" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Professional" }}</h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
     {% if post.highlight_home and post.categories contains 'professional' %}

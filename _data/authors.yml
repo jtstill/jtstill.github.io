@@ -7,5 +7,5 @@ Jack Still:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:name@email.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jack-still/"
