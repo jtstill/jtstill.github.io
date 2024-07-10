@@ -18,7 +18,5 @@ header:
 --WOULD LOVE TO MAKE THE CONTENT OF THE EMBEDDED IMAGE ITSELF SMALLER!!--
 
 Current Progress in the USA
-<iframe
-  src="https://www.mob-rule.com/user-gifs/USA/jtstill.gif"
-  style="width:100vh; height:500px;"
-></iframe>
+<img src="https://mob-rule.com/user-gifs/USA/jtstill.gif">
+
