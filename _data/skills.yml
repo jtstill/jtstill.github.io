@@ -1,12 +1,15 @@
 technical:
  - title: tsk1
    level: Intermediate
+   url: "/petprojects"
  - title: tsk2
    level: Intermediate
+   url: "/petprojects"
  - title: tsk3
    level: Advanced
  - title: tsk4
    level: Advanced
+   url: "/petprojects"
 
 soft:
  - title: ssk1
