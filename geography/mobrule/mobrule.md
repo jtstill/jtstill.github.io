@@ -20,3 +20,19 @@ header:
 Current Progress in the USA
 <img src="https://mob-rule.com/user-gifs/USA/jtstill.gif">
 
+<!--<div class="iframeContainerMobrule">
+<iframe
+  src="https://www.mob-rule.com/user/jtstill"
+  style="width:100vh; height:500px;"
+  scrolling="no"
+  class="iframeContentMobrule"
+></iframe>
+</div>-->
+
+<div style="position: relative; overflow: hidden; left: 0px; top: 0px; border: solid 2px #555; width:333px; height:1365px;">
+<div style="overflow: hidden; margin-top: 0px; margin-left: 0px;">
+
+<iframe src="https://www.mob-rule.com/user/jtstill" scrolling="no" style="height: 1740px; border: 0px none; width: 550px; margin-top: -375px; margin-left: -115px; ">
+</iframe>
+</div>
+</div>
