@@ -15,9 +15,8 @@ header:
  description: A picture I took north of Sedona, AZ in August 2022
 ---
 
---to do: figure out way to import table stats and construct--
-
 Current Progress in the USA
+
 <img src="https://mob-rule.com/user-gifs/USA/jtstill.gif">
 
 <!--<div class="iframeContainerMobrule">
@@ -29,7 +28,8 @@ Current Progress in the USA
 ></iframe>
 </div>-->
 
-<div style="position: relative; overflow: hidden; left: 0px; top: 0px; border: solid 2px #555; width:333px; height:1365px;">
+
+<div style="position: relative; overflow: hidden; left: 0px; top: 0px; border: solid 2px #555; width:333px; height:1365px; pointer-events:none">
 <div style="overflow: hidden; margin-top: 0px; margin-left: 0px;">
 
 <iframe src="https://www.mob-rule.com/user/jtstill" scrolling="no" style="height: 1740px; border: 0px none; width: 550px; margin-top: -375px; margin-left: -115px; ">

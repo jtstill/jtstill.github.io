@@ -20,7 +20,8 @@ Geography has always been an interest of mine. I credit my love for statistics a
 Below are some ongoing projects I have that are related to geography:
 
 
-| Topic | Page | Additional Link |
-| --- | --- | --- |
-| Where I've driven | [My Travel Mapping Journey](/geography/travelmapping/travelmapping) | [Travel Mapping - Highways](https://travelmapping.net/user/?units=miles&u=jtstill&) |
-| Where I've been | [County Completion](/geography/mobrule/mobrule) | [Mob-Rule.com](https://www.mob-rule.com/user-gifs/USA/jtstill.gif) |
+| Topic | External Page |
+| --- | --- |
+| [Where I've Driven](/geography/travelmapping/travelmapping) | [Travel Mapping - Highways](https://travelmapping.net/user/?units=miles&u=jtstill&) |
+| [Where I've Been](/geography/mobrule/mobrule) | [Mob-Rule.com](https://www.mob-rule.com/user-gifs/USA/jtstill.gif) |
+| [Highway Marker Project](/geography/highway_signs/storyline) | [A visual guide](https://99percentinvisible.org/article/american-highways-101-visual-guide-to-u-s-road-sign-designs-numbering-systems/) |
