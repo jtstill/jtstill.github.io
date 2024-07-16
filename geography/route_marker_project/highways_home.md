@@ -15,14 +15,17 @@ header:
 <h3 class="archive__subtitle">What Is This Project? A Brief History</h3>
 Some people want to be able to say they've travelled to all fifty US states. Here, I take that one step further, as I attempt to get a picture with every state's route marker -- the full 1 to 50 -- no skips or repeats! This project is a fun way for me to see all fifty, get off the beaten path, and have irrefutable picture evidence of the ordeal! Plus, I think it'll look pretty cool hanging on a wall once I've completed the set!
 
-[A Brief History](/geography/route_marker_project/project_background)
+Click here to read about the project origins: [A Brief History](/geography/route_marker_project/project_background)
 
+<br>
 <h5 class="archive__subtitle">Updates</h5>
-link to July 2024 update
+[July 2024](/geography/route_marker_project/07_2024_update)
 
+<br>
 <h3 class="archive__subtitle">Progress!</h3>
-Link to page with photos of progress
+[See current stash of photos](/geography/route_marker_project/progress)
 
+<br>
 <h3 class="archive__subtitle">A Mathematical Approach to Finding Solutions</h3>
 Link to a "finding solutions" page (embedded example files for combinations and the math behind it?)
 
