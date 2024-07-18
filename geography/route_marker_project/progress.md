@@ -14,6 +14,14 @@ header:
 
 <h3 class="archive__subtitle">Progress!</h3>
 
+<!--<div class="gallery">
+  {% for file in site.static_files %}
+      {% if file.path contains '/geography/route_marker_project/images/hwy_pics/' and file.extname == '.jpg' %}
+          {{ file.name }}
+      {% endif %}
+  {% endfor %}
+</div>-->
+
 <div class="gallery">
   {% for file in site.static_files %}
       {% if file.path contains '/geography/route_marker_project/images/hwy_pics/' and file.extname == '.jpg' %}

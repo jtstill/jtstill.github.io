@@ -14,6 +14,8 @@ header:
  # caption: "Photo credit: me"
  description: A picture I took north of Sedona, AZ in August 2022
 ---
+<a href="javascript:window.history.back();">Go Back</a>
+
 
 Current Progress in the USA
 

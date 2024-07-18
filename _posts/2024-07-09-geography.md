@@ -22,7 +22,6 @@ Below are some ongoing projects I have that are related to geography:
 
 |  | Topic | External Page |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| ![](/assets/images/route_signs.jpg){:width="50%" -%} | [Route Marker Project](/geography/route_marker_project/highways_home) | [A visual guide](https://99percentinvisible.org/article/american-highways-101-visual-guide-to-u-s-road-sign-designs-numbering-systems/) |
-| ![](/assets/images/tm_thumbnail.png){:width="50%" -%} | [Where I've Driven](/geography/travelmapping/travelmapping) | [Travel Mapping - Highways](https://travelmapping.net/user/?units=miles&u=jtstill&) |
-| ![](/assets/images/mobrule_thumbnail.gif){:width="50%" -%} | [Where I've Been](/geography/mobrule/mobrule) | [Mob-Rule.com](https://mob-rule.com/scoreboard) |
-
+| <img src="/assets/images/route_signs.jpg" width="300">  | [Route Marker Project](/geography/route_marker_project/highways_home) | [A visual guide](https://99percentinvisible.org/article/american-highways-101-visual-guide-to-u-s-road-sign-designs-numbering-systems/) |
+| <img src="/assets/images/tm_thumbnail.png" width="300"> | [Where I've Driven](/geography/travelmapping/travelmapping) | [Travel Mapping - Highways](https://travelmapping.net/user/?units=miles&u=jtstill&) |
+| <img src="/assets/images/mobrule_thumbnail.gif" width="300"> | [Where I've Been](/geography/mobrule/mobrule) | [Mob-Rule.com](https://mob-rule.com/scoreboard) |

@@ -14,6 +14,8 @@ header:
  # caption: "Photo credit: me"
  description: A picture I took north of Sedona, AZ in August 2022
 ---
+<a href="javascript:window.history.back();">Go Back</a>
+
 
 <h3 class="archive__subtitle">Travel Mapping</h3>
 See my progress directly: [My Travel Mapping User Page](https://travelmapping.net/user/?units=miles&u=jtstill&)
@@ -22,11 +24,12 @@ Ever since our cross country trip from Phoenix, AZ to Carlisle, PA in August of 
 
 Thanks to the dedicated work of road and travel enthusiasts, who painstakingly maintain a series of highway segments all over the world, I can track everything from interstates to state routes to scenic parkways and generate maps which display my travels. See some of those travel stats below!
 
-
+<div style="pointer-events:none">
 <iframe
   src="https://travelmapping.net/user/?units=miles&u=jtstill&"
   style="width:100vh; height:2000px;"
 ></iframe>
+</div>
 
 Pennsylvania (my home state):
 <iframe
