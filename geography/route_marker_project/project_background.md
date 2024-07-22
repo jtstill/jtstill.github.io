@@ -12,6 +12,8 @@ header:
 ---
 <a href="javascript:window.history.back();">Go Back</a>
 
+[Go to Highways Home](/geography/route_marker_project/highways_home)
+
 <h3 class="archive__subtitle">Our First Road Trip</h3>
 In the summer of 2022, Lyndsey and I took a 3,400-mile road trip. We had never taken a trip together more than a few days or out of state (besides her coming down to spend a week with me in Baltimore the previous summer, when I did research for Loyola), so we figured that this would be the perfect opportunity to spend some time together and see some really cool sights – while I had been west a few times to visit my grandparents, she had never stepped foot past the Mississippi! I was almost more excited to watch her see the dramatic landscapes of the western US for the first time than I was to see them myself.
 
@@ -24,7 +26,7 @@ Due to several circumstances, it just so happened to work out for me to buy a ca
 <h4 class="archive__subtitle">A Rough Plan</h4>
 I’ve always been a geography lover, having a soft spot in my heart for (what I deem) cool things such as old globes depicting now dissolved or renamed nations, things such as the US Interstate system and watching the counties fill in with blue or red on election nights (games such as Geoguessr and websites like Sporcle cemented this strange fascination). Maybe it’s that combination of wanderlust and that number, structure-oriented side of my brain that makes world borders and other travel-related systems so interesting to me.
 
-On our trip, Lyndsey was kind enough to make stops for me to take pictures next to state highway signs, which I thought was cool because most of them have their own distinct style (save for those with no creativity, like Kentucky, Mississippi, Iowa, New Jersey...). Arizona and Missouri feature their state outlines. Kansas uses a sunflower. Colorado’s sports the state flag. As a collector of various things, I thought it would be cool to start a new collection. Because most highway signs are unique, it was a also a cool way to prove I’d been there. Now, it’s a bit difficult to take the signs themselves with me – not to mention illegal! – so the pictures would have to do. But I wanted to get a picture with one in each of the 50 states; I’ve always wanted to go to all 50 someday anyways, so this could be proof! 
+On our trip, Lyndsey was kind enough to make stops for me to take pictures next to state highway signs, which I thought was cool because most of them have their own distinct style (save for those with no creativity, like Kentucky, Mississippi, Iowa, New Jersey...). Arizona and Missouri feature their state outlines. Kansas uses a sunflower. Colorado’s sports the state flag. As a collector of various things, I thought it would be cool to start a new collection. Because most highway signs are unique, it was also a cool way to prove I’d been there. Now, it’s a bit difficult to take the signs themselves with me – not to mention illegal! – so the pictures would have to do. But I wanted to get a picture with one in *each* of the 50 states; I’ve always wanted to go to all 50 someday anyways, so this could be my proof! 
 
 ![](/geography/route_marker_project/images/hwy_pics/AZ_89A.jpg){:width="30%" -%}
 ![](/geography/route_marker_project/images/hwy_pics/CO_9.jpg){:width="30%" -%}
@@ -35,7 +37,7 @@ On our trip, Lyndsey was kind enough to make stops for me to take pictures next 
 By about the time we hit Kansas or Missouri, I had conceived a more specific goal: what if I could *not only* get a picture of me with each of the 50 state signs, *but also* have those signs number 1 to 50 – no number or state repeats? The reasoning was three-fold:
 
 1. I could clearly and easily order them (always the categorizer)
-1. I have it look pretty neat displayed somewhere
+1. I think it'd look pretty neat displayed somewhere
 1. It's a bit of an added challenge: it might force me to stray a bit off the touristy path and see a lesser-known America.
 
 <br>
@@ -47,4 +49,6 @@ Looking into this once we got home after the trip, I realized there are a number
 1. Ease of Access (Travel): Even if I could theoretically get a number in state X, was it worth it? While I do want to see as much of the country as I can, I have to have some reason to go other than to take a picture with a road sign (lame!). It’s probably not worth driving hundreds of miles to find the ten-mile stretch of road that constitutes Wyoming 10 when Wyoming 22 is just a skip south of the Grand Tetons, something I might actually go and see one day. 
 1. Ease of Access (Safety): One thing that I didn’t originally consider was pedestrian safety – I do not want to have to stop my car on a busy freeway to snap a picture and put either myself or Lyndsey in danger. We did it to get OH 4 as we passed through Ohio, and the lack of planning on my end had us pulling over on the side of a major road. Not smart. From now on, I wanted to scout the area using a tool like Google Earth beforehand.
 
-As a stats major with a bonus computer science minor, I was sure I could automate some way to figure out, if not the ideal combination, then at least some of the possible solutions to my problem, taking these challenges into consideration.
+As a stats major with a bonus computer science minor, I was sure I could automate some way to figure out, if not the ideal permutation, then at least some of the possible solutions to my problem, taking these challenges into consideration.
+
+Next Page: [Finding Solutions](/geography/route_marker_project/finding_solutions)
