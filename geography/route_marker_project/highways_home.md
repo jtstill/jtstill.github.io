@@ -29,11 +29,12 @@ Updates: [July 2024](/geography/route_marker_project/07_2024_update)
 
 <br>
 <h3 class="archive__subtitle">Using Math and Python to Find Solutions</h3>
+
 [The Theory and Constraints](/geography/route_marker_project/finding_solutions)
 
-[A Step Back: The Math of It All](/geography/route_marker_project/math_of_it_all.md)
+[A Step Back: The Math of It All](/geography/route_marker_project/math_of_it_all)
 
-[A Coding Breakthrough](/geography/route_marker_project/n_queens_problem.md)
+[A Coding Breakthrough](/geography/route_marker_project/n_queens_problem)
 
 [New and Improved: A Working Program]
 
