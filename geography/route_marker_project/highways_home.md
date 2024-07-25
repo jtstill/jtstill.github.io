@@ -36,9 +36,9 @@ Updates: [July 2024](/geography/route_marker_project/07_2024_update)
 
 [A Coding Breakthrough](/geography/route_marker_project/n_queens_problem)
 
-[New and Improved: A Working Program]
+[New and Improved: A Working Program](/geography/route_marker_project/the_improved_code)
 
-Link to (interactive?) solutions finder --> includes numbers file and python output program
+Want to check it out? Here's a link to my [solution finder](/geography/route_marker_project/highways_home).
 
 
 LINK TO TEST TABLEAU PUBLIC --> to do: learn tableau just as well as Power BI
