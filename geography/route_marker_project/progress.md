@@ -22,9 +22,56 @@ header:
   {% endfor %}
 </div>-->
 
+
+<h4 class="archive__subtitle">State Routes</h4>
 <div class="gallery">
   {% for file in site.static_files %}
-      {% if file.path contains '/geography/route_marker_project/images/hwy_pics/' and file.extname == '.jpg' %}
+      {% if file.path contains '/geography/route_marker_project/images/state_routes/' and file.extname == '.jpg' %}
+          <img src="{{ file.path }}" alt="Gallery Image" width="20%">
+      {% endif %}
+  {% endfor %}
+</div>
+
+<h4 class="archive__subtitle">US Routes</h4>
+<div class="gallery">
+  {% for file in site.static_files %}
+      {% if file.path contains '/geography/route_marker_project/images/us_routes/' and file.extname == '.jpg' %}
+          <img src="{{ file.path }}" alt="Gallery Image" width="20%">
+      {% endif %}
+  {% endfor %}
+</div>
+
+<h4 class="archive__subtitle">Interstates</h4>
+<div class="gallery">
+  {% for file in site.static_files %}
+      {% if file.path contains '/geography/route_marker_project/images/interstates/' and file.extname == '.jpg' %}
+          <img src="{{ file.path }}" alt="Gallery Image" width="20%">
+      {% endif %}
+  {% endfor %}
+</div>
+
+<h4 class="archive__subtitle">Other United States</h4>
+<div class="gallery">
+  {% for file in site.static_files %}
+      {% if file.path contains '/geography/route_marker_project/images/other_routes/' and file.extname == '.jpg' %}
+          <img src="{{ file.path }}" alt="Gallery Image" width="20%">
+      {% endif %}
+  {% endfor %}
+</div>
+
+<h4 class="archive__subtitle">Foreign Routes</h4>
+<div class="gallery">
+  {% for file in site.static_files %}
+      {% if file.path contains '/geography/route_marker_project/images/foreign/' and file.extname == '.jpg' %}
+          <img src="{{ file.path }}" alt="Gallery Image" width="20%">
+      {% endif %}
+  {% endfor %}
+</div>
+
+<h4 class="archive__subtitle">Errors and Other Interesting Signs</h4>
+<div class="gallery">
+  {% for file in site.static_files %}
+      {% if file.path contains '/geography/route_marker_project/images/interesting_pics/' and file.extname == '.jpg' %}
           <img src="{{ file.path }}" alt="Gallery Image" width="20%">
       {% endif %}
   {% endfor %}
