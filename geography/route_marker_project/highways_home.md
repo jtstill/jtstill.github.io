@@ -11,7 +11,7 @@ header:
  # caption: "Photo credit: me"
  description: A picture I took north of Sedona, AZ in August 2022
 ---
-<a href="javascript:window.history.back();">Go Back</a>
+[Back to Geography Pet Projects](/petprojects/2024/07/10/geography.html)
 
 
 <h3 class="archive__subtitle">What Is This Project? A Brief History</h3>
