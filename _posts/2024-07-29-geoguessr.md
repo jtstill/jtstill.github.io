@@ -25,6 +25,6 @@ For those who don't know, Geoguessr is a browser-based game in which users are p
 
 |  | Topic | Description |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| temp  | [Perfect Scores - United States] | Keeping track of my perfect scores within the United States -- complete with YouTube videos and comprehensive stats. |
-| temp | [Perfect Scores - World] | Keeping track of my perfect scores worldwide. |
-| temp | [Country Explorer] | See the countries in which I've scored well. |
+| temp img  | [Perfect Scores - United States](/geoguessr/usa/usa_25k) | Keeping track of my perfect scores within the United States -- complete with comprehensive stats and  YouTube videos. |
+| temp img | [Perfect Scores - World] | Keeping track of my perfect scores worldwide. |
+| temp img | [Country Explorer] | See the countries in which I've scored well. |
