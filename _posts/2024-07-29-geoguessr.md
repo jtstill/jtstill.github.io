@@ -8,6 +8,7 @@ category: petprojects
 tags: Games
 author_profile: true
 author: Jack Still
+permalink: /petprojects/geoguessr/
 header:
  teaser: "assets/images/north_of_sedona.jpg"
  overlay_image: "assets/images/north_of_sedona.jpg"
