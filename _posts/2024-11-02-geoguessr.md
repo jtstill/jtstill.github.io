@@ -2,7 +2,7 @@
 layout: posts
 title:  "Geoguessr"
 tagline: "Let's Explore the World!"
-date:   2024-07-29 15:30:00 -0500
+date:   2024-11-02 00:00:00 -0500
 highlight_home: true
 category: petprojects
 tags: Games
@@ -16,7 +16,7 @@ header:
  description: A picture I took north of Sedona, AZ in August 2022
 ---
 
-At some point during college, I found myself addicted to [GeoWizard](https://www.youtube.com/GeoWizard)'s YouTube channel. A charismatic British guy with a passion for adventure, he alternated his content between straight-line missions (travelling the span of an entire country in a completely straight line), Sporcle geography games, and Geoguessr.
+At some point during the height of COVID in college, I found myself addicted to [GeoWizard](https://www.youtube.com/GeoWizard)'s YouTube channel. A charismatic British guy with a passion for adventure, he produced content about straight-line missions (travelling the span of an entire country in a completely straight line), Sporcle geography games, and Geoguessr.
 
 I always looked forward to watching his Geoguessr videos (although nowadays am just as attracted to his real-world missions) -- this was the height of the pandemic in 2020 and I had nothing better to do than sit and watch -- and eventually I bit the bullet and paid for my own subscription to the game (about $30/year -- don't know why I waited so long, really).
 

@@ -2,7 +2,7 @@
 layout: posts
 title:  "--DEMO-- Accelerating your Career"
 tagline: "Professional Services That Transformed My Professional Viability"
-date:   2023-06-21 19:13:27 -0500
+date:   2020-01-02 00:00:00 -0500
 # highlight_home: true
 #category: professional
 #tags: demo

@@ -2,10 +2,10 @@
 layout: posts
 title:  "Geography Pet Projects"
 tagline: "Highways, Byways, and the Like"
-date:   2024-07-09 20:04:00 -0400
-highlight_home: true
-category: petprojects
-tags: Geography
+date:   2021-01-01 00:00:00 -0500
+#highlight_home: true
+#category: petprojects
+#tags: Geography
 author_profile: true
 author: Jack Still
 permalink: /petprojects/geography/
