@@ -12,7 +12,7 @@ header:
 ---
 <a href="javascript:window.history.back();">Go Back</a>
 
-[Go to Highways Home](/geography/route_marker_project/highways_home)
+[Go to Highways Home](/petprojects/route_marker_project/)
 
 <h3 class="archive__subtitle">Thinking Through My Next Steps</h3>
 Before I dove head-first into trying to code up another solution-finding program, I at least wanted to know how many solutions were floating out there. Conceptually, I know it’s not a lost cause: I could manually sketch out at least a few solutions. But how to find them programmatically *and* efficiently?

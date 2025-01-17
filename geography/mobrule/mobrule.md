@@ -14,7 +14,7 @@ header:
  # caption: "Photo credit: me"
  description: A picture I took north of Sedona, AZ in August 2022
 ---
-[Back to Geography Pet Projects](/petprojects/2024/07/10/geography.html)
+[Back to Geography Pet Projects](/petprojects/geography)
 
 
 Current Progress in the USA

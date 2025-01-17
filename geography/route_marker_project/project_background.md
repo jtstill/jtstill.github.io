@@ -12,7 +12,7 @@ header:
 ---
 <a href="javascript:window.history.back();">Go Back</a>
 
-[Go to Highways Home](/geography/route_marker_project/highways_home)
+[Go to Highways Home](/petprojects/route_marker_project/)
 
 <h3 class="archive__subtitle">Our First Road Trip</h3>
 In the summer of 2022, Lyndsey and I took a 3,400-mile road trip. We had never taken a trip together more than a few days or out of state (besides her coming down to spend a week with me in Baltimore the previous summer, when I did research for Loyola), so we figured that this would be the perfect opportunity to spend some time together and see some really cool sights – while I had been west a few times to visit my grandparents, she had never stepped foot past the Mississippi! I was almost more excited to watch her see the dramatic landscapes of the western US for the first time than I was to see them myself.

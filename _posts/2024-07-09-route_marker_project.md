@@ -1,18 +1,21 @@
 ---
-layout: archive
+layout: posts
 title:  "Route Marker Project"
-#tagline: "stuff"
-#date:   2024-07-10 20:00 -0500
-author: Jack Still
+tagline: "Highways, Byways, etc."
+date:   2024-07-09 20:04:00 -0400
+highlight_home: true
+category: petprojects
+tags: Geography
 author_profile: true
+author: Jack Still
+permalink: /petprojects/route_marker_project/
 header:
- teaser: "assets/images/north_of_sedona.jpg"
- overlay_image: "assets/images/north_of_sedona.jpg"
+ teaser: "/assets/images/route_signs.jpg"
+ overlay_image: "/assets/images/route_signs.jpg"
  # caption: "Photo credit: me"
  description: A picture I took north of Sedona, AZ in August 2022
 ---
-[Back to Geography Pet Projects](/petprojects/geography)
-
+[A Visual Guide to Highway Signs](https://99percentinvisible.org/article/american-highways-101-visual-guide-to-u-s-road-sign-designs-numbering-systems/)
 
 <h3 class="archive__subtitle">What Is This Project? A Brief History</h3>
 Some people want to be able to say they've travelled to all fifty US states. Here, I take that one step further, as I attempt to get a picture with every state's route marker -- the full 1 to 50 -- no skips or repeats! This project is a fun way for me to see all fifty, get off the beaten path, and have irrefutable picture evidence of the ordeal! Plus, I think it'll look pretty cool hanging on a wall once I've completed the set!

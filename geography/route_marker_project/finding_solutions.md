@@ -12,7 +12,7 @@ header:
 ---
 <a href="javascript:window.history.back();">Go Back</a>
 
-[Go to Highways Home](/geography/route_marker_project/highways_home)
+[Go to Highways Home](/petprojects/route_marker_project/)
 
 <h3 class="archive__subtitle">What Does a Solution Look Like?</h3>
 Take the following simplified example:

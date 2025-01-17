@@ -1,3 +1,5 @@
 # jtstill.github.io
 
-instructions: bundle exec jekyll serve --watch
+Instructions: 
+bundle install
+bundle exec jekyll serve --watch

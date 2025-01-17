@@ -12,7 +12,7 @@ header:
 ---
 <a href="javascript:window.history.back();">Go Back</a>
 
-[Go to Highways Home](/geography/route_marker_project/highways_home)
+[Go to Highways Home](/petprojects/route_marker_project/)
 
 <h3 class="archive__subtitle">What is the N-Queens Problem?</h3>
 It was in the process of finding ways within python to implement the conditionality question (no number duplicates) that I remembered something I had done in my algorithms class during the spring of 2022: the “N-Queens problem.” The gist of it entails finding a way to place ```n``` number of queens on a chessboard such that no queen can attack another (by being in the same column, row, or diagonal). On a regular chessboard, the goal is 8 queens, but for our class we just talked about 4 (on a 4x4 chessboard). As it turns out, there are only 2 ways to do this:
